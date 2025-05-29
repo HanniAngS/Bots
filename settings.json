@@ -1,27 +1,27 @@
 {
   "bot-accounts": [
     {
-      "username": "StarBotPVP", 
+      "username": "StarBotsPVP", 
       "password": "", 
       "type": "mojang"
     },
     {
-      "username": "StarBotVanilla", 
+      "username": "StarBotsVanilla", 
       "password": "", 
       "type": "mojang"
     },
     {
-      "username": "StarBotBoxPVP", 
+      "username": "StarBotsBoxPVP", 
       "password": "", 
       "type": "mojang"
     },
     {
-      "username": "StarBotGAMEZONE", 
+      "username": "StarBotsGAMEZONE", 
       "password": "", 
       "type": "mojang"
     },
     {
-      "username": "StarBotSMP", 
+      "username": "StarBotsSMP", 
       "password": "", 
       "type": "mojang"
     }
